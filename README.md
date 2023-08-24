@@ -18,4 +18,5 @@
     4.Download and install Putty and WinScp
     5.Upload Flask website to EC2 using WinSCP
     6.Install packages on EC2 using putty
+    url link : http://ec2-3-110-212-101.ap-south-1.compute.amazonaws.com:8080/
 
